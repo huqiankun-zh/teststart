@@ -1,6 +1,7 @@
 package com.example.teststart.nettylong;
 
 
+/*
 import io.netty.channel.ChannelHandlerContext;
 
 public class NettyClientHandler extends SimpleChannelInboundHandler<RequestInfoVO> {
@@ -21,4 +22,4 @@ public class NettyClientHandler extends SimpleChannelInboundHandler<RequestInfoV
 
     }
 
-}
+}*/
